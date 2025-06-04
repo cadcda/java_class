@@ -7,7 +7,7 @@ public class Calculator {
 
         System.out.println("this is git");
         System.out.println("final");
-        System.out.println("th");
+        System.out.println("the");
         System.out.println("this is hub");
         Scanner sc=new Scanner(System.in);
         System.out.println("the the two values :");
