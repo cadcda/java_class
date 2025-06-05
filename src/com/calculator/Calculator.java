@@ -5,10 +5,6 @@ import java.util.Scanner;
 public class Calculator {
     public static void main(String[] args){
 
-        System.out.println("this is git");
-        System.out.println("final");
-        System.out.println("the");
-        System.out.println("this is hub");
         Scanner sc=new Scanner(System.in);
         System.out.println("the the two values :");
         int a=sc.nextInt();
