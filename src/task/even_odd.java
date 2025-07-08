@@ -1,4 +1,4 @@
-package task.junefirstweek;
+package task;
 
 import java.util.Scanner;
 
