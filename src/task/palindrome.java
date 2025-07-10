@@ -5,12 +5,14 @@ import java.util.Scanner;
 public class palindrome {
     public static void main(String[] args){
 //
-                Scanner sc = new Scanner(System.in);
-
-                // Input the string
-                System.out.print("Enter a string: ");
-                String x = sc.nextLine();
+        int z=25%5;
+        System.out.println(z);
+//                Scanner sc = new Scanner(System.in);
 //
+//                // Input the string
+//                System.out.print("Enter a string: ");
+//                String x = sc.nextLine();
+////
 //                // Convert to lowercase and remove non-alphanumeric characters (optional)
 //                String cleaned = input.replaceAll("[^a-zA-Z0-9]", "").toLowerCase();
 //
@@ -38,7 +40,6 @@ public class palindrome {
 //        char [] clean=x.toLowerCase().toCharArray();
 //
 //        char[] y=
-
 
 
     }
