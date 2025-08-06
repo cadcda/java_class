@@ -9,7 +9,7 @@ import org.json.JSONObject;
 
 public class GeminiChat {
 
-    private static final String API_KEY = "AIzaSyAbICWedBMsn2_FKeELZcBw7rFHzeDHx6g";  // Replace with your actual API key
+    private static final String API_KEY = "";  // Replace with your actual API key
     private static final String API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=" + API_KEY;
 
     public static void main(String[] args) {
